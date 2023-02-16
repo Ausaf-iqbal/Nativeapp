@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "296434652406",
+    "firebase_url": "https://person-identification-6434d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "person-identification-6434d",
+    "storage_bucket": "person-identification-6434d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296434652406:android:3323a34549d6bf354948d7",
+        "android_client_info": {
+          "package_name": "com.ausaf.testApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296434652406-uvgpnhc8dkds1v9adl3fjf1j37rb8ngv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB33UUF-ldCqgBHMWvepybrzFGsTt8H8Dw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296434652406-uvgpnhc8dkds1v9adl3fjf1j37rb8ngv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
